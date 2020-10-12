@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... web development projects/sites.
 - 🤔 I’m looking for help with ... JavaScript, websites, networking, and career advancement.
 - 💬 Ask me about ... anything!
-- 📫 How to reach me: ... either [LinkedIn](https://www.linkedin.com/in/jerinblack/) or via [email](jerinb@email.arizona.edu)
+- 📫 How to reach me: ... on [LinkedIn](https://www.linkedin.com/in/jerinblack/)
 - 😄 Pronouns: ... she/her.
 - ⚡ Fun fact: ... I'm an anthropologist, I've lived abroad in China, and VBA was my first programming language.
