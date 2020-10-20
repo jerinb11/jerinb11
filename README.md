@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... my portfolio.
 - 🌱 I’m currently learning ... more Python and its libraries.
 - 👯 I’m looking to collaborate on ... web development projects/sites.
-- 🤔 I’m looking for help with ... JavaScript, Machine Learning, websites, and career advancement.
+- 🤔 I’m looking for help with ... JavaScript, Machine Learning, web development, and career advancement.
 - 💬 Ask me about ... anything!
 - 📫 How to reach me: ... on [LinkedIn](https://www.linkedin.com/in/jerinblack/)
 - 😄 Pronouns: ... she/her.
